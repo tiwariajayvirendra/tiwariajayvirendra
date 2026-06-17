@@ -1,7 +1,7 @@
   **Hi, I'm Tiwari Ajay Virendra !
-  Full Stack Web Developer | Backend Specialist (MERN & Python) | 
-  Currently working remotely with PestMark Facility Management As A Intern. 
-  Passionate about building Frontend , scalable APIs and modular backend solutions.**
+   Full Stack Web Developer | Backend Specialist (MERN & Python) | 
+   Data Science & Gen AI Learner | 
+   Building Scalable APIs & AI‑Powered Solutions **
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tiwari-ajay-v) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TIWARI AJAY VIRENDRA u/Tav2_) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@TIWARI AJAY VIRENDRA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajaytripathi821@gmail.com) 
