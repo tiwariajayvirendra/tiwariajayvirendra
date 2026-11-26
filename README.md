@@ -1,4 +1,4 @@
-  **Hi, I'm Tiwari Ajay Virendra !
+**Hi, I'm Tiwari Ajay Virendra !
    Full Stack Web Developer | Backend Specialist (MERN & Python) | 
    Data Science & Gen AI Learner | 
    Building Scalable APIs & AI‑Powered Solutions **
