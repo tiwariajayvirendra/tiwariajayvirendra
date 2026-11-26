@@ -1,6 +1,6 @@
 <!-- ═════════════════ HEADER ═════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Ajay%20Virendra%20Tiwari&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Science%20and%20Generative%20AI&descSize=18&descAlignY=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Tiwari%20Ajay%20Virendra&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Science%20and%20Generative%20AI&descSize=18&descAlignY=60" alt="header" />
 </p>
 
 <p align="center">
