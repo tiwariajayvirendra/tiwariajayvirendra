@@ -1,11 +1,11 @@
 <!-- ═════════════════ HEADER ═════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Ajay%20Virendra%20Tiwari&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Science%20%26%20Generative%20AI&descSize=18&descAlignY=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Ajay%20Virendra%20Tiwari&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Science%20and%20Generative%20AI&descSize=18&descAlignY=60" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/tiwariajayvirendra">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=Data+Analyst+%7C+SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI;Turning+raw+data+into+business+decisions;Building+ETL+Pipelines+%26+ML+Models;Exploring+GenAI%2C+LLMs%2C+RAG+%26+Agentic+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=Data+Analyst+%7C+SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI;Turning+raw+data+into+business+decisions;Building+ETL+Pipelines+and+ML+Models;Exploring+GenAI%2C+LLMs%2C+RAG+%26+Agentic+AI" alt="Typing SVG" />
   </a>
 </p>
 
